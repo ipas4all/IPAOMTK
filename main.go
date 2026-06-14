@@ -235,21 +235,46 @@ func discoverTotalPages(ctx context.Context, client *http.Client, cfg config) (i
 	if err != nil {
 		return 0, err
 	}
+	req.Header.Set("Accept", "application/json")
+	req.Header.Set("User-Agent", "ipaomtk-source-builder/1.0")
+	resp, err := client.Do(req)
+	if err != nil {
+		return discoverTotalPagesByGET(ctx, client, cfg)
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
+		return discoverTotalPagesByGET(ctx, client, cfg)
+	}
+	return totalPagesFromHeader(resp.Header, cfg)
+}
+
+func discoverTotalPagesByGET(ctx context.Context, client *http.Client, cfg config) (int, error) {
+	req, err := http.NewRequestWithContext(ctx, http.MethodGet, pageURL(cfg, 1), nil)
+	if err != nil {
+		return 0, err
+	}
+	req.Header.Set("Accept", "application/json")
+	req.Header.Set("User-Agent", "ipaomtk-source-builder/1.0")
 	resp, err := client.Do(req)
 	if err != nil {
 		return 0, err
 	}
 	defer resp.Body.Close()
+	io.Copy(io.Discard, io.LimitReader(resp.Body, 1024))
 	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
-		return 0, fmt.Errorf("HEAD %s", resp.Status)
+		return 0, fmt.Errorf("GET discovery %s", resp.Status)
 	}
-	if totalPages := resp.Header.Get("X-WP-TotalPages"); totalPages != "" {
+	return totalPagesFromHeader(resp.Header, cfg)
+}
+
+func totalPagesFromHeader(header http.Header, cfg config) (int, error) {
+	if totalPages := header.Get("X-WP-TotalPages"); totalPages != "" {
 		n, err := strconv.Atoi(totalPages)
 		if err == nil && n > 0 {
 			return n, nil
 		}
 	}
-	if total := resp.Header.Get("X-WP-Total"); total != "" {
+	if total := header.Get("X-WP-Total"); total != "" {
 		n, err := strconv.Atoi(total)
 		if err == nil && n > 0 {
 			return int(math.Ceil(float64(n) / float64(cfg.perPage))), nil
