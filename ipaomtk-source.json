@@ -1,9 +1,89 @@
 {
   "featuredApps": [
-    "com.ipaomtk.not.boring.calculator"
+    "com.ipaomtk.easy.anatomy.3d.with.voice.ai"
   ],
   "description": "IPAOMTK without the bullshit",
   "apps": [
+    {
+      "bundleIdentifier": "com.ipaomtk.easy.anatomy.3d.with.voice.ai",
+      "localizedDescription": "Easy Anatomy 3D with Voice AI IPA for iPhone offers interactive 3D anatomy models, AI-powered voice assistance, and detailed human body exploration for students, educators, and healthcare learners.",
+      "tintColor": "#D03E43",
+      "category": "education",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Easy-Anatomy-3D-with-Voice-AI-IPA-v5.40.0-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/easy-anatomy-3d-with-voice-ai/Easy_Anatomy_3D_Atlas_IPAOMTK.com.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Subscription unlocked",
+          "size": 1523119555,
+          "date": "2026-07-17T12:30:03Z",
+          "version": "5.40.0",
+          "downloadURL": "https://file.ipaomtk.com/easy-anatomy-3d-with-voice-ai/Easy_Anatomy_3D_Atlas_IPAOMTK.com.ipa"
+        }
+      ],
+      "subtitle": "Subscription unlocked",
+      "name": "Easy Anatomy 3D with Voice AI"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.ball.in.pinball.defense",
+      "localizedDescription": "Ball in! Pinball Defense IPA for iPhone combines classic pinball action with tower defense strategy, challenging players to defend their base using skill, upgrades, and fast-paced arcade gameplay on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Ball-in-Pinball-Defense-IPA-v1.0.5-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/ball-in-pinball-defense/ball-in-pinball-defense-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlimited Gems",
+          "size": 254908826,
+          "date": "2026-07-17T12:15:03Z",
+          "version": "1.0.5",
+          "downloadURL": "https://file.ipaomtk.com/ball-in-pinball-defense/ball-in-pinball-defense-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlimited Gems",
+      "name": "Ball in! Pinball Defense"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.mystery.farm.idle.tycoon.game",
+      "localizedDescription": "Mystery Farm: Idle Tycoon Game IPA for iPhone is a relaxing farming simulation where you build a magical farm, automate production, expand your land, and earn idle rewards on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Mystery-Farm-Idle-Tycoon-Game-IPA-v1.0.1-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/mystery-farm-idle-tycoon-game/mystery-farm-idle-tycoon-game-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlimited Gems",
+          "size": 296967209,
+          "date": "2026-07-17T12:01:59Z",
+          "version": "1.0.1",
+          "downloadURL": "https://file.ipaomtk.com/mystery-farm-idle-tycoon-game/mystery-farm-idle-tycoon-game-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlimited Gems",
+      "name": "Mystery Farm: Idle Tycoon Game"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.my.car.empire.idle.tycoon.3d",
+      "localizedDescription": "My Car Empire: Idle Tycoon 3D IPA My Car Empire: Idle Tycoon 3D IPA is an engaging business simulation game that lets iPhone and iPad users build a",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/My-Car-Empire-Idle-Tycoon-3D-IPA-v0.0.10-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/my-car-empire-idle-tycoon-3d/my-car-empire-idle-tycoon-3d-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Currency Freeze",
+          "size": 619110728,
+          "date": "2026-07-17T12:01:50Z",
+          "version": "0.0.10",
+          "downloadURL": "https://file.ipaomtk.com/my-car-empire-idle-tycoon-3d/my-car-empire-idle-tycoon-3d-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Currency Freeze",
+      "name": "My Car Empire: Idle Tycoon 3D"
+    },
     {
       "bundleIdentifier": "com.ipaomtk.not.boring.calculator",
       "localizedDescription": "(Not Boring) Calculator IPA for iPhone transforms everyday calculations into an engaging experience with interactive animations, powerful math tools, and a beautifully designed interface.",
@@ -217,7 +297,7 @@
           "localizedDescription": "Damage Multiplier",
           "size": 266956964,
           "date": "2026-07-16T11:51:46Z",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "downloadURL": "https://file.ipaomtk.com/digimon-up/digimon-up-IPAOMTK.COM.ipa"
         }
       ],
@@ -19252,7 +19332,7 @@
           "localizedDescription": "Max Level",
           "size": 526657782,
           "date": "2026-03-24T17:13:35Z",
-          "version": "3.6.1",
+          "version": "3.7.0",
           "downloadURL": "https://file.ipaomtk.com/golf-dreams/Golf-Dreams-IPAOMTK.COM.ipa"
         }
       ],
@@ -29060,7 +29140,7 @@
           "localizedDescription": "Defense Multiplier",
           "size": 1357255803,
           "date": "2025-12-18T20:08:06Z",
-          "version": "1.1.8",
+          "version": "1.4.9",
           "downloadURL": "https://file.ipaomtk.com/Lava%20Survival/Lava-Survival-IPAOMTK.COM.ipa"
         }
       ],
@@ -36806,14 +36886,14 @@
       "downloadURL": "https://file.ipaomtk.com/Lyfta-Gym-Workout-Tracker-Log/Lyfta_Gym_Workout_Tracker_Log_IPAOMTK.COM.ipa",
       "versions": [
         {
-          "localizedDescription": "Subscription Unlocked",
+          "localizedDescription": "Premium Unlocked",
           "size": 116077363,
           "date": "2025-09-10T15:21:52Z",
-          "version": "1.150",
+          "version": "1.151",
           "downloadURL": "https://file.ipaomtk.com/Lyfta-Gym-Workout-Tracker-Log/Lyfta_Gym_Workout_Tracker_Log_IPAOMTK.COM.ipa"
         }
       ],
-      "subtitle": "Subscription Unlocked",
+      "subtitle": "Premium Unlocked",
       "name": "Lyfta: Gym Workout Tracker Log"
     },
     {
@@ -37288,7 +37368,7 @@
           "localizedDescription": "God Mode",
           "size": 1084479242,
           "date": "2025-09-04T15:21:51Z",
-          "version": "1.8.5",
+          "version": "1.8.7",
           "downloadURL": "https://file.ipaomtk.com/resident-evil-survival-unit-ipa/Resident-Evil-IPAOMTK.COM.ipa"
         }
       ],
@@ -42020,7 +42100,7 @@
           "localizedDescription": "Damage Multiplier",
           "size": 221532652,
           "date": "2025-07-20T13:03:55Z",
-          "version": "2.3.0",
+          "version": "2.3.1",
           "downloadURL": "https://file.ipaomtk.com/town-guardians/Town-Guardians-IPAOMTK.COM.ipa"
         }
       ],
@@ -46294,7 +46374,7 @@
           "localizedDescription": "Subscription Unlocked",
           "size": 120512840,
           "date": "2025-06-11T20:45:46Z",
-          "version": "3.141",
+          "version": "3.142",
           "downloadURL": "https://file.ipaomtk.com/MealPrepPro/MealPrepPro-Planner-%26-Recipes-IPAOMTK.com.ipa"
         }
       ],
@@ -47974,7 +48054,7 @@
           "localizedDescription": "No Ads, Unlimited Coins",
           "size": 505549947,
           "date": "2025-06-01T20:58:44Z",
-          "version": "232.0.7",
+          "version": "232.0.8",
           "downloadURL": "https://file.ipaomtk.com/Parking%20Jam/Parking-Jam-3D-IPAOMTK.com.ipa"
         }
       ],
@@ -48353,7 +48433,7 @@
           "localizedDescription": "Premium Unlocked",
           "size": 145930322,
           "date": "2025-05-31T12:36:37Z",
-          "version": "4.11.0",
+          "version": "4.13.0",
           "downloadURL": "https://file.ipaomtk.com/Reveri/Reveri-Brain-Over-Pain-IPAOMTK.com.ipa"
         }
       ],
@@ -64161,7 +64241,7 @@
           "localizedDescription": "Damage Multiplier",
           "size": 156007137,
           "date": "2025-02-25T18:39:58Z",
-          "version": "1.21.5",
+          "version": "1.22.0",
           "downloadURL": "https://file.ipaomtk.com/train-of-hope-survival-game/Train-of-Hope-IPAOMTK.COM.ipa"
         }
       ],
@@ -112638,7 +112718,7 @@
         {
           "localizedDescription": "debug functions",
           "date": "2024-06-22T00:54:15Z",
-          "version": "0.33.5",
+          "version": "0.34.1",
           "downloadURL": "https://file.ipaomtk.com/sky-children-of-the-light/Sky-Children-IPAOMTK.COM.ipa"
         }
       ],
@@ -122645,7 +122725,7 @@
         {
           "localizedDescription": "VIP Enabled",
           "date": "2024-03-13T20:04:30Z",
-          "version": "3.21.42",
+          "version": "3.21.46",
           "downloadURL": "https://file.ipaomtk.com/jurassic-world-alive/Jurassic-World-IPAOMTK.COM.ipa"
         }
       ],
@@ -145472,7 +145552,7 @@
           "localizedDescription": "(Unlimited All)",
           "size": 574619648,
           "date": "2023-05-24T22:58:06Z",
-          "version": "9.1.5",
+          "version": "10.0",
           "downloadURL": "https://file.ipaomtk.com/heroes-vs-hordes-survivor/Heroes-v-Hordes-IPAOMTK.COM.ipa"
         }
       ],
@@ -155525,7 +155605,7 @@
           "localizedDescription": "Free iAP",
           "size": 1825361101,
           "date": "2023-02-18T19:19:00Z",
-          "version": "2.6.9",
+          "version": "2.7.0",
           "downloadURL": "https://file.ipaomtk.com/car-parking-ipa/Car-Parking-Multiplayer-IPAOMTK.COM.ipa"
         }
       ],
@@ -157963,7 +158043,7 @@
           "localizedDescription": "Subscription Unlocked",
           "size": 95493816,
           "date": "2023-02-16T20:09:34Z",
-          "version": "6.5.9",
+          "version": "6.6.0",
           "downloadURL": "https://file.ipaomtk.com/365scores-ipa/365Scores-IPAOMTK.COM.ipa"
         }
       ],
