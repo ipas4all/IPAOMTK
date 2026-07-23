@@ -1,9 +1,589 @@
 {
   "featuredApps": [
-    "com.ipaomtk.not.boring.timer"
+    "com.ipaomtk.mob.empire.city.gang.wars"
   ],
   "description": "IPAOMTK without the bullshit",
   "apps": [
+    {
+      "bundleIdentifier": "com.ipaomtk.mob.empire.city.gang.wars",
+      "localizedDescription": "Download Mob Empire: City Gang Wars IPA for iPhone and iPad. Build your criminal empire, expand your territory, recruit powerful allies, and experience strategic city warfare on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Mob-Empire-City-Gang-Wars-IPA-v2.4.0-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/mob-empire-city-gang-wars/Mob-Empire-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Gold,Cash",
+          "size": 580491674,
+          "date": "2026-07-22T15:57:10Z",
+          "version": "2.4.0",
+          "downloadURL": "https://file.ipaomtk.com/mob-empire-city-gang-wars/Mob-Empire-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Gold,Cash",
+      "name": "Mob Empire: City Gang Wars"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.find.my.phone.device.finder",
+      "localizedDescription": "Find My Phone - Device Finder IPA for iPhone helps users locate devices, monitor location, trigger alerts, and improve device security with intuitive tracking tools on iOS.",
+      "tintColor": "#D03E43",
+      "category": "entertainment",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Find-my-phone-8211-Device-Finder-IPA-v1.8.8-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/find-my-phone-device-finder/find-my-phone-device-finder-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlocked features",
+          "size": 131722117,
+          "date": "2026-07-22T13:16:50Z",
+          "version": "1.8.8",
+          "downloadURL": "https://file.ipaomtk.com/find-my-phone-device-finder/find-my-phone-device-finder-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlocked features",
+      "name": "Find my phone – Device Finder"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.mole.checker.scanner.dermai",
+      "localizedDescription": "Mole Checker \u0026 Scanner: DermAi IPA for iPhone helps users document skin spots, monitor changes over time, organize skin records, and support skin health awareness with AI-assisted tools on iOS.",
+      "tintColor": "#D03E43",
+      "category": "education",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Mole-Checker-038-Scanner-DermAi-IPA-v1.5.16-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/mole-checker-scanner-dermai/mole-checker-scanner-dermai-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Features unlocked",
+          "size": 67601695,
+          "date": "2026-07-22T13:16:44Z",
+          "version": "1.5.16",
+          "downloadURL": "https://file.ipaomtk.com/mole-checker-scanner-dermai/mole-checker-scanner-dermai-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Features unlocked",
+      "name": "Mole Checker \u0026 Scanner: DermAi"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.zest.meal.planner.recipes",
+      "localizedDescription": "Zest: Meal Planner \u0026 Recipes IPA for iPhone helps users plan meals, organize recipes, create grocery lists, discover healthy dishes, and simplify weekly cooking on iOS.",
+      "tintColor": "#D03E43",
+      "category": "education",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Zest-Meal-Planner-038-Recipes-IPA-v9.12.1-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/zest-meal-planner-recipes/zest-meal-planner-recipes-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "features unlocked",
+          "size": 204356977,
+          "date": "2026-07-22T13:12:29Z",
+          "version": "9.12.1",
+          "downloadURL": "https://file.ipaomtk.com/zest-meal-planner-recipes/zest-meal-planner-recipes-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "features unlocked",
+      "name": "Zest: Meal Planner \u0026 Recipes"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.tricky.prank.annoying.quest",
+      "localizedDescription": "Tricky Prank: Annoying Quest IPA for iPhone is a humorous puzzle game featuring clever pranks, brain-teasing challenges, funny scenarios, interactive levels, and casual entertainment on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Tricky-Prank-Annoying-Quest-IPA-v1.4.8-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/tricky-prank-annoying-quest/tricky-prank-annoying-quest-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "No ads",
+          "size": 256796262,
+          "date": "2026-07-22T13:06:44Z",
+          "version": "1.4.8",
+          "downloadURL": "https://file.ipaomtk.com/tricky-prank-annoying-quest/tricky-prank-annoying-quest-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "No ads",
+      "name": "Tricky Prank: Annoying Quest"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.solitaire.truck.deluxe",
+      "localizedDescription": "Solitaire Truck Deluxe IPA for iPhone combines classic solitaire gameplay with a trucking theme, offering relaxing card challenges, rewarding progression, daily activities, and smooth performance on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Solitaire-Truck-Deluxe-IPA-v3.3.1-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/solitaire-truck-deluxe/solitaire-truck-deluxe-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlimited Gems",
+          "size": 432810230,
+          "date": "2026-07-22T13:04:28Z",
+          "version": "3.3.1",
+          "downloadURL": "https://file.ipaomtk.com/solitaire-truck-deluxe/solitaire-truck-deluxe-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlimited Gems",
+      "name": "Solitaire Truck Deluxe"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.racing.xperience.driving.sim",
+      "localizedDescription": "Racing Xperience: Driving Sim IPA for iPhone delivers realistic driving simulation, customizable vehicles, immersive racing modes, detailed environments, and smooth controls for an authentic motorsport experience on iOS.",
+      "tintColor": "#D03E43",
+      "category": "entertainment",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Racing-Xperience-Driving-Sim-IPA-v5.4-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/racing-xperience-driving-sim/racing-xperience-driving-sim-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Free store",
+          "size": 1883378811,
+          "date": "2026-07-22T13:04:22Z",
+          "version": "5.4",
+          "downloadURL": "https://file.ipaomtk.com/racing-xperience-driving-sim/racing-xperience-driving-sim-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Free store",
+      "name": "Racing Xperience: Driving Sim"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.super.bear.adventure",
+      "localizedDescription": "Super Bear Adventure IPA for iPhone is a colorful 3D platformer featuring open-world exploration, exciting quests, collectible items, charming characters, and classic adventure gameplay on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Super-Bear-Adventure-IPA-v13.0.0-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/super-bear-adventure/super-bear-adventure-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Max Coins",
+          "size": 385603338,
+          "date": "2026-07-22T12:54:12Z",
+          "version": "13.0.0",
+          "downloadURL": "https://file.ipaomtk.com/super-bear-adventure/super-bear-adventure-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Max Coins",
+      "name": "Super Bear Adventure"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.drone.war.air.shooting.3d",
+      "localizedDescription": "Drone War: Air Shooting 3D IPA for iPhone is an action-packed aerial combat game featuring drone battles, intense shooting missions, weapon upgrades, and immersive 3D gameplay on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Drone-War-Air-Shooting-3D-IPA-v1.6-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/drone-war-air-shooting-3d/drone-war-air-shooting-3d-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlimited money",
+          "size": 587968020,
+          "date": "2026-07-22T12:36:37Z",
+          "version": "1.6",
+          "downloadURL": "https://file.ipaomtk.com/drone-war-air-shooting-3d/drone-war-air-shooting-3d-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlimited money",
+      "name": "Drone War: Air Shooting 3D"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.brick.fight",
+      "localizedDescription": "Brick Fight IPA for iPhone is a fast-paced action game where players collect bricks, build defenses, battle opponents, and compete in exciting multiplayer-style arenas on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Brick-Fight-IPA-v2.1.7-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/brick-fight/brick-fight-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlimited Gems",
+          "size": 551278346,
+          "date": "2026-07-22T12:35:32Z",
+          "version": "2.1.7",
+          "downloadURL": "https://file.ipaomtk.com/brick-fight/brick-fight-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlimited Gems",
+      "name": "Brick Fight"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.plant.identifier.care.planty",
+      "localizedDescription": "Plant Identifier, Care: Planty IPA for iPhone helps users identify plants, receive personalized care guides, track watering schedules, diagnose common plant issues, and manage indoor or outdoor gardens on iOS.",
+      "tintColor": "#D03E43",
+      "category": "utilities",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Plant-Identifier-Care-Planty-IPA-v1.23.37-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/plant-identifier-care-planty/plant-identifier-care-planty-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlocked features",
+          "size": 245974958,
+          "date": "2026-07-22T12:35:10Z",
+          "version": "1.23.37",
+          "downloadURL": "https://file.ipaomtk.com/plant-identifier-care-planty/plant-identifier-care-planty-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlocked features",
+      "name": "Plant Identifier, Care: Planty"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.jaemy.learn.korean.easily",
+      "localizedDescription": "Jaemy: Learn Korean Easily IPA for iPhone helps users master Korean through interactive lessons, vocabulary practice, pronunciation exercises, grammar guides, and daily learning activities on iOS.",
+      "tintColor": "#D03E43",
+      "category": "utilities",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Jaemy-Learn-Korean-Easily-IPA-v2.1.2-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/jaemy-learn-korean-easily/jaemy-learn-korean-easily-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlocked features",
+          "size": 84913684,
+          "date": "2026-07-22T12:35:07Z",
+          "version": "2.1.2",
+          "downloadURL": "https://file.ipaomtk.com/jaemy-learn-korean-easily/jaemy-learn-korean-easily-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlocked features",
+      "name": "Jaemy: Learn Korean Easily"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.knit.out",
+      "localizedDescription": "Knit Out IPA for iPhone is a relaxing puzzle game where players untangle colorful yarn, solve satisfying knitting-inspired challenges, and enjoy calming gameplay with beautiful visuals on iOS.",
+      "tintColor": "#D03E43",
+      "category": "entertainment",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Knit-Out-IPA-v1.27.0-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/knit-out/knit-out-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlimited time",
+          "size": 601379308,
+          "date": "2026-07-22T12:32:33Z",
+          "version": "1.27.0",
+          "downloadURL": "https://file.ipaomtk.com/knit-out/knit-out-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlimited time",
+      "name": "Knit Out"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.mad.skills.bmx.2.bike.game",
+      "localizedDescription": "Mad Skills BMX 2: Bike Game IPA for iPhone delivers thrilling BMX racing with realistic physics, challenging tracks, bike customization, competitive gameplay, and smooth performance on iOS devices.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Mad-Skills-BMX-2-Bike-Game-IPA-v2.8.9-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/mad-skills-bmx-2-bike-game/mad-skills-bmx-2-bike-game-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Free Store",
+          "size": 335596749,
+          "date": "2026-07-22T12:23:56Z",
+          "version": "2.8.9",
+          "downloadURL": "https://file.ipaomtk.com/mad-skills-bmx-2-bike-game/mad-skills-bmx-2-bike-game-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Free Store",
+      "name": "Mad Skills BMX 2: Bike Game"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.chatto.ai.chat.ai.chatbot",
+      "localizedDescription": "Chatto - AI Chat \u0026 AI Chatbot IPA for iPhone offers AI-powered conversations, writing assistance, brainstorming, language support, and productivity tools in an intuitive chatbot experience on iOS.",
+      "tintColor": "#D03E43",
+      "category": "utilities",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Chatto-8211-AI-Chat-038-AI-Chatbot-IPA-v2.4.5-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/chatto-ai-chat-ai-chatbot/chatto-ai-chat-ai-chatbot-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlocked features",
+          "size": 97465139,
+          "date": "2026-07-22T12:23:24Z",
+          "version": "2.4.5",
+          "downloadURL": "https://file.ipaomtk.com/chatto-ai-chat-ai-chatbot/chatto-ai-chat-ai-chatbot-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlocked features",
+      "name": "Chatto – AI Chat \u0026 AI Chatbot"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.leap.second.everyday.videos",
+      "localizedDescription": "Leap Second - Everyday Videos IPA for iPhone lets users discover, watch, and share short videos across a variety of topics while enjoying a personalized and engaging viewing experience on iOS.",
+      "tintColor": "#D03E43",
+      "category": "entertainment",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Leap-Second-8211-Everyday-Videos-IPA-v3.10.4-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/leap-second-everyday-videos/leap-second-everyday-videos-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlocked features",
+          "size": 123836826,
+          "date": "2026-07-22T12:23:20Z",
+          "version": "3.10.4",
+          "downloadURL": "https://file.ipaomtk.com/leap-second-everyday-videos/leap-second-everyday-videos-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlocked features",
+      "name": "Leap Second – Everyday Videos"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.phone.tracker.gps.location",
+      "localizedDescription": "Phone Tracker - GPS Location IPA for iPhone helps users share locations, monitor family members with permission, view real-time GPS updates, and improve personal safety using location-sharing features on iOS.",
+      "tintColor": "#D03E43",
+      "category": "lifestyle",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Phone-Tracker-8211-GPS-Location-IPA-v2.2.12-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/phone-tracker-gps-location/phone-tracker-gps-location-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlocked features",
+          "size": 127863357,
+          "date": "2026-07-22T12:23:16Z",
+          "version": "2.2.12",
+          "downloadURL": "https://file.ipaomtk.com/phone-tracker-gps-location/phone-tracker-gps-location-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlocked features",
+      "name": "Phone Tracker – GPS Location"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.coffee.stack",
+      "localizedDescription": "Coffee Stack IPA for iPhone is a fun arcade runner where players collect coffee cups, customize drinks, avoid obstacles, and serve customers while building the biggest coffee stack on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Coffee-Stack-IPA-v47.0.6-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/coffee-stack/coffee-stack-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Free store",
+          "size": 590956462,
+          "date": "2026-07-22T12:23:12Z",
+          "version": "47.0.6",
+          "downloadURL": "https://file.ipaomtk.com/coffee-stack/coffee-stack-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Free store",
+      "name": "Coffee Stack"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.image.to.text.ocr.scanner",
+      "localizedDescription": "Image to Text \u0026 OCR Scanner IPA for iPhone extracts text from photos, scanned documents, receipts, and images using OCR technology, making it easy to edit, copy, translate, and organize content on iOS.",
+      "tintColor": "#D03E43",
+      "category": "utilities",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Image-to-Text-038-OCR-Scanner-IPA-v1.3.7-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/image-to-text-ocr-scanner/image-to-text-ocr-scanner-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlocked features",
+          "size": 87839212,
+          "date": "2026-07-22T12:13:50Z",
+          "version": "1.3.7",
+          "downloadURL": "https://file.ipaomtk.com/image-to-text-ocr-scanner/image-to-text-ocr-scanner-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlocked features",
+      "name": "Image to Text \u0026 OCR Scanner"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.headway.daily.micro.learning",
+      "localizedDescription": "Headway – Daily Micro Learning IPA for iPhone delivers bite-sized book summaries, daily learning sessions, and personalized self-improvement content to help users build knowledge and productive habits on iOS.",
+      "tintColor": "#D03E43",
+      "category": "education",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Headway-8211-Daily-Micro-Learning-IPA-v390.5-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/headway-daily-micro-learning/headway-daily-micro-learning-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "All features unlocked",
+          "size": 422397870,
+          "date": "2026-07-22T12:13:45Z",
+          "version": "390.5",
+          "downloadURL": "https://file.ipaomtk.com/headway-daily-micro-learning/headway-daily-micro-learning-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "All features unlocked",
+      "name": "Headway – Daily Micro Learning"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.miracast.screen.mirroring.tv",
+      "localizedDescription": "Miracast: Screen Mirroring TV IPA for iPhone lets you mirror your iPhone screen to compatible smart TVs, stream media wirelessly, and enjoy photos, videos, presentations, and more on a larger display.",
+      "tintColor": "#D03E43",
+      "category": "entertainment",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Miracast-Screen-Mirroring-TV-IPA-v1.6.2-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/miracast-screen-mirroring-tv/miracast-screen-mirroring-tv-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Features unlocked",
+          "size": 170666230,
+          "date": "2026-07-22T12:13:39Z",
+          "version": "1.6.2",
+          "downloadURL": "https://file.ipaomtk.com/miracast-screen-mirroring-tv/miracast-screen-mirroring-tv-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Features unlocked",
+      "name": "Miracast: Screen Mirroring TV"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.fish.tycoon.3.virtual.aquarium",
+      "localizedDescription": "Fish Tycoon 3: Virtual Aquarium IPA for iPhone lets players breed hundreds of fish, manage thriving aquarium shops, discover rare species, and build the ultimate aquatic empire on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Fish-Tycoon-3-Virtual-Aquarium-IPA-v0.9.7-Unlocked-For-iOS-featured-image-1.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/fish-tycoon-3-virtual-aquarium/fish-tycoon-3-virtual-aquarium-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Cheats Menu",
+          "size": 316607037,
+          "date": "2026-07-22T12:12:49Z",
+          "version": "0.9.7",
+          "downloadURL": "https://file.ipaomtk.com/fish-tycoon-3-virtual-aquarium/fish-tycoon-3-virtual-aquarium-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Cheats Menu",
+      "name": "Fish Tycoon 3 Virtual Aquarium"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.detective.s.mystery.game",
+      "localizedDescription": "Detective S: Mystery Game IPA for iPhone is a thrilling detective adventure featuring crime investigations, hidden clues, challenging puzzles, intriguing suspects, and immersive storytelling on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Detective-S-Mystery-Game-IPA-v1.21.3-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/detective-s-mystery-game/detective-s-mystery-game-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Gold Freeze",
+          "size": 453372805,
+          "date": "2026-07-22T12:12:45Z",
+          "version": "1.21.3",
+          "downloadURL": "https://file.ipaomtk.com/detective-s-mystery-game/detective-s-mystery-game-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Gold Freeze",
+      "name": "Detective S: Mystery Game"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.family.life",
+      "localizedDescription": "Family Life! IPA for iPhone is a life simulation game where players build a family, make meaningful choices, raise children, customize homes, and experience everyday milestones on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Family-Life-IPA-v1.51.9-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/family-life/family-life-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "No Ads",
+          "size": 282979205,
+          "date": "2026-07-22T12:12:24Z",
+          "version": "1.51.9",
+          "downloadURL": "https://file.ipaomtk.com/family-life/family-life-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "No Ads",
+      "name": "Family Life!"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.truck.simulator.evo.drive.usa",
+      "localizedDescription": "Truck Simulator EVO: Drive USA IPA for iPhone delivers realistic truck driving, cargo transportation, detailed American highways, customizable trucks, and immersive logistics simulation on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Truck-Simulator-EVO-Drive-USA-IPA-v2.0-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/truck-simulator-evo-drive-usa/truck-simulator-evo-drive-usa-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlimited Gold",
+          "size": 2224900014,
+          "date": "2026-07-22T12:12:22Z",
+          "version": "2.0",
+          "downloadURL": "https://file.ipaomtk.com/truck-simulator-evo-drive-usa/truck-simulator-evo-drive-usa-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlimited Gold",
+      "name": "Truck Simulator EVO: Drive USA"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.empire.defense.rome.td",
+      "localizedDescription": "Empire Defense: Rome TD IPA for iPhone is a strategic tower defense game featuring Roman-inspired battles, powerful heroes, defensive towers, epic campaigns, and challenging enemy waves on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Empire-Defense-Rome-TD-IPA-v1.0.6-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/empire-defense-rome-td/empire-defense-rome-td-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlimited Coins",
+          "size": 675534602,
+          "date": "2026-07-22T12:11:19Z",
+          "version": "1.0.6",
+          "downloadURL": "https://file.ipaomtk.com/empire-defense-rome-td/empire-defense-rome-td-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlimited Coins",
+      "name": "Empire Defense: Rome TD"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.universal.remote.for.smart.tv",
+      "localizedDescription": "Universal Remote for Smart TV+ IPA for iPhone transforms your iPhone into a smart TV remote with easy navigation, media controls, keyboard input, and seamless compatibility with supported television models.",
+      "tintColor": "#D03E43",
+      "category": "entertainment",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Universal-Remote-for-Smart-TV-IPA-v2.1.4-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/universal-remote-for-smart-tv/universal-remote-for-smart-tv-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Features unlocked",
+          "size": 255024169,
+          "date": "2026-07-22T12:04:37Z",
+          "version": "2.1.4",
+          "downloadURL": "https://file.ipaomtk.com/universal-remote-for-smart-tv/universal-remote-for-smart-tv-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Features unlocked",
+      "name": "Universal Remote for Smart TV+"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.fluently.ai.language.learning",
+      "localizedDescription": "Fluently: AI Language Learning IPA for iPhone helps users practice speaking, improve pronunciation, build vocabulary, and learn new languages with AI-powered lessons on iOS.",
+      "tintColor": "#D03E43",
+      "category": "education",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Fluently-AI-Language-Learning-IPA-v61-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/fluently-ai-language-learning/fluently-ai-language-learning-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Features unlocked",
+          "size": 134458900,
+          "date": "2026-07-22T12:04:34Z",
+          "version": "61",
+          "downloadURL": "https://file.ipaomtk.com/fluently-ai-language-learning/fluently-ai-language-learning-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Features unlocked",
+      "name": "Fluently: AI Language Learning"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.med.terminology.flashcards",
+      "localizedDescription": "Med Terminology Flashcards IPA for iPhone helps students and healthcare professionals learn medical terminology through interactive flashcards, quizzes, and efficient study tools on iOS.",
+      "tintColor": "#D03E43",
+      "category": "education",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Med-Terminology-Flashcards-IPA-v5.0-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/med-terminology-flashcards/med-terminology-flashcards-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Features unlocked",
+          "size": 38849741,
+          "date": "2026-07-22T12:00:19Z",
+          "version": "5.0",
+          "downloadURL": "https://file.ipaomtk.com/med-terminology-flashcards/med-terminology-flashcards-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Features unlocked",
+      "name": "Med Terminology Flashcards"
+    },
     {
       "bundleIdentifier": "com.ipaomtk.not.boring.timer",
       "localizedDescription": "(Not Boring) Timer IPA for iPhone transforms countdowns and focus sessions with interactive animations, customizable timers, and a beautifully designed productivity experience.",
@@ -517,7 +1097,7 @@
           "localizedDescription": "Damage Multiplier",
           "size": 266956964,
           "date": "2026-07-16T11:51:46Z",
-          "version": "1.0.3",
+          "version": "1.0.4",
           "downloadURL": "https://file.ipaomtk.com/digimon-up/digimon-up-IPAOMTK.COM.ipa"
         }
       ],
@@ -1097,7 +1677,7 @@
           "localizedDescription": "Unlimited Money",
           "size": 838409912,
           "date": "2026-07-12T11:39:12Z",
-          "version": "1.0.3",
+          "version": "1.1.9",
           "downloadURL": "https://file.ipaomtk.com/tiny-bookshop/Tiny-Bookshop-IPAOMTK.COM.ipa"
         }
       ],
@@ -1117,7 +1697,7 @@
           "localizedDescription": "Free iAP",
           "size": 549957140,
           "date": "2026-07-12T11:38:35Z",
-          "version": "1.3.4",
+          "version": "1.3.6",
           "downloadURL": "https://file.ipaomtk.com/volleycraft/VolleyCraft-IPAOMTK.COM.ipa"
         }
       ],
@@ -1577,7 +2157,7 @@
           "localizedDescription": "Damage Multiplier",
           "size": 535161733,
           "date": "2026-07-09T11:20:27Z",
-          "version": "1.0.1",
+          "version": "2.0.6",
           "downloadURL": "https://file.ipaomtk.com/last-beacon-survival/Last-Beacon-Survival-IPAOMTK.COM.ipa"
         }
       ],
@@ -2637,7 +3217,7 @@
           "localizedDescription": "HP Freeze",
           "size": 661567570,
           "date": "2026-07-04T06:42:54Z",
-          "version": "1.4.39",
+          "version": "1.4.41",
           "downloadURL": "https://file.ipaomtk.com/amazeus-merge-shoot/AmaZeus-Merge-Shoot-IPAOMTK.COM.ipa"
         }
       ],
@@ -2877,7 +3457,7 @@
           "localizedDescription": "Freeze Moves",
           "size": 946004296,
           "date": "2026-07-03T12:47:23Z",
-          "version": "2.43.4",
+          "version": "2.44.0",
           "downloadURL": "https://file.ipaomtk.com/ravenhill-find-hidden-objects/Ravenhill-Find-Hidden-Objects-IPAOMTK.COM.ipa"
         }
       ],
@@ -3657,7 +4237,7 @@
           "localizedDescription": "Unlimited Cash",
           "size": 628904428,
           "date": "2026-06-29T06:53:04Z",
-          "version": "1.0.24",
+          "version": "1.0.25",
           "downloadURL": "https://file.ipaomtk.com/i-am-security/I-Am-Security-IPAOMTK.COM.ipa"
         }
       ],
@@ -4097,7 +4677,7 @@
           "localizedDescription": "No Ads",
           "size": 284132639,
           "date": "2026-06-27T07:00:43Z",
-          "version": "3.2",
+          "version": "3.3",
           "downloadURL": "https://file.ipaomtk.com/sheep-dash-farm-animal-escape/Sheep-Dash-Farm-Animal-Escape-IPAOMTK.COM.ipa"
         }
       ],
@@ -4297,7 +4877,7 @@
           "localizedDescription": "ADS NO",
           "size": 551121060,
           "date": "2026-06-24T08:02:05Z",
-          "version": "1.3",
+          "version": "1.4",
           "downloadURL": "https://file.ipaomtk.com/cross-master-word-puzzles/Cross-Master-Word-Puzzles-IPAOMTK.COM.ipa"
         }
       ],
@@ -4856,7 +5436,7 @@
           "localizedDescription": "Damage Multiplier",
           "size": 614486508,
           "date": "2026-06-20T14:21:53Z",
-          "version": "2.6.0",
+          "version": "2.6.1",
           "downloadURL": "https://file.ipaomtk.com/leaf-world/Leaf-World-IPAOMTK.COM.ipa"
         }
       ],
@@ -6115,7 +6695,7 @@
           "localizedDescription": "PREMIUM",
           "size": 53666120,
           "date": "2026-06-11T14:03:28Z",
-          "version": "7.0.0",
+          "version": "7.1.1",
           "downloadURL": "https://file.ipaomtk.com/agavey/Agavey-IPAOMTK.COM.ipa"
         }
       ],
@@ -6654,7 +7234,7 @@
           "localizedDescription": "Gems Max",
           "size": 315306803,
           "date": "2026-06-08T11:38:18Z",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "downloadURL": "https://file.ipaomtk.com/sport-star-team-manager-idle/Sport-Star-Team-Manager-IPAOMTK.COM.ipa"
         }
       ],
@@ -6814,7 +7394,7 @@
           "localizedDescription": "Unlimited Gold",
           "size": 301822116,
           "date": "2026-06-08T07:06:01Z",
-          "version": "1.0.1",
+          "version": "1.1.0",
           "downloadURL": "https://file.ipaomtk.com/ghost-sniper-war-fps-shooter/Ghost-Sniper-War-FPS-Shooter-IPAOMTK.COM.ipa"
         }
       ],
@@ -7314,7 +7894,7 @@
           "localizedDescription": "God Mode",
           "size": 705303675,
           "date": "2026-06-03T07:53:54Z",
-          "version": "0.2.10",
+          "version": "0.2.11",
           "downloadURL": "https://file.ipaomtk.com/motu-skeletor-until-next-time/MOTU-Skeletor-Until-Next-Time-IPAOMTK.COM.ipa"
         }
       ],
@@ -10493,7 +11073,7 @@
           "localizedDescription": "Defense Multiplier",
           "size": 968632566,
           "date": "2026-05-15T11:18:13Z",
-          "version": "1.29.12",
+          "version": "1.30.6",
           "downloadURL": "https://file.ipaomtk.com/rellion-npc-survival/RELLION-NPC-Survival-IPAOMTK.COM.ipa"
         }
       ],
@@ -11192,7 +11772,7 @@
           "localizedDescription": "unlimited credits",
           "size": 39174799,
           "date": "2026-05-12T09:40:59Z",
-          "version": "1.2.211",
+          "version": "1.2.225",
           "downloadURL": "https://file.ipaomtk.com/tiny-space-program/Tiny-Space-Program-IPAOMTK.COM.ipa"
         }
       ],
@@ -14032,7 +14612,7 @@
           "localizedDescription": "PREMIUM",
           "size": 233119416,
           "date": "2026-04-28T16:14:57Z",
-          "version": "13.8.0",
+          "version": "13.9.0",
           "downloadURL": "https://file.ipaomtk.com/color-by-number-coloring-games/Color-by-Number-Coloring-Games-IPAOMTK.COM.ipa"
         }
       ],
@@ -14272,7 +14852,7 @@
           "localizedDescription": "Download Media",
           "size": 178887066,
           "date": "2026-04-25T20:28:17Z",
-          "version": "567.0.0",
+          "version": "569.0.0",
           "downloadURL": "https://file.ipaomtk.com/glow-for-facebook/Facebook-Glow-IPAOMTK.COM.ipa"
         }
       ],
@@ -16292,7 +16872,7 @@
           "localizedDescription": "Defense Multiplier",
           "size": 258232812,
           "date": "2026-04-18T21:45:42Z",
-          "version": "1.29.1",
+          "version": "1.29.2",
           "downloadURL": "https://file.ipaomtk.com/micro-rpg/Micro-RPG-IPAOMTK.COM.ipa"
         }
       ],
@@ -17852,7 +18432,7 @@
           "localizedDescription": "No Ads",
           "size": 2445992264,
           "date": "2026-04-07T12:17:41Z",
-          "version": "2.034",
+          "version": "2.037",
           "downloadURL": "https://file.ipaomtk.com/drag-sim-king-of-the-racing-2/Drag-Sim-King-Of-The-Racing-2-IPAOMTK.COM.ipa"
         }
       ],
@@ -20832,7 +21412,7 @@
           "localizedDescription": "Damage Multiplier",
           "size": 260487250,
           "date": "2026-03-03T14:06:11Z",
-          "version": "8.0.0",
+          "version": "8.0.1",
           "downloadURL": "https://file.ipaomtk.com/Magic-Puzzle-Quest/Magic-Puzzle-Quest-ipaomtk.com.ipa"
         }
       ],
@@ -22772,7 +23352,7 @@
           "localizedDescription": "Ads Remove",
           "size": 352971653,
           "date": "2026-02-17T14:18:52Z",
-          "version": "3.1.0",
+          "version": "3.2.0",
           "downloadURL": "https://file.ipaomtk.com/piggy-go-idle-rpg/Piggy-Go-IPAOMTK.COM.ipa"
         }
       ],
@@ -24212,7 +24792,7 @@
           "localizedDescription": "Unlock All Skins",
           "size": 233884877,
           "date": "2026-02-01T20:19:20Z",
-          "version": "1.11.0",
+          "version": "1.12.1",
           "downloadURL": "https://file.ipaomtk.com/sled-surfers/Sled-Surfers-IPAOMTK.COM.ipa"
         }
       ],
@@ -25829,7 +26409,7 @@
           "localizedDescription": "Damage Multiplier",
           "size": 1151818793,
           "date": "2026-01-11T11:45:01Z",
-          "version": "2.1.1",
+          "version": "2.1.2",
           "downloadURL": "https://file.ipaomtk.com/Super-Marine-Defense/Super-Marine-IPAOMTK.COM.ipa"
         }
       ],
@@ -27008,7 +27588,7 @@
           "localizedDescription": "Enable premium",
           "size": 527203041,
           "date": "2026-01-03T20:00:09Z",
-          "version": "4.4.20",
+          "version": "4.4.21",
           "downloadURL": "https://file.ipaomtk.com/Color%20Road%21/Color-Road-IPAOMTK.COM.ipa"
         }
       ],
@@ -29698,7 +30278,7 @@
           "localizedDescription": "Enemy Don't move",
           "size": 124161884,
           "date": "2025-12-15T18:27:46Z",
-          "version": "4.6.17",
+          "version": "4.6.18",
           "downloadURL": "https://file.ipaomtk.com/real-war-not-fake/Real-War-Not-Fake-IPAOMTK.COM.ipa"
         }
       ],
@@ -31015,7 +31595,7 @@
           "localizedDescription": "Pro Unlocked",
           "size": 121875988,
           "date": "2025-11-28T13:35:22Z",
-          "version": "2.5.55",
+          "version": "2.5.56",
           "downloadURL": "https://file.ipaomtk.com/No%20Fusion/No-Fusion-Pro-IPAOMTK.com.ipa"
         }
       ],
@@ -31693,7 +32273,7 @@
           "localizedDescription": "God Mode",
           "size": 435997901,
           "date": "2025-11-23T13:01:05Z",
-          "version": "1.1.2",
+          "version": "1.1.3",
           "downloadURL": "https://file.ipaomtk.com/War%20Inc%20Rising/War-Inc-Rising-IPAOMTK.COM.ipa"
         }
       ],
@@ -36610,7 +37190,7 @@
           "localizedDescription": "Subscription Unlocked",
           "size": 107216896,
           "date": "2025-09-15T23:06:27Z",
-          "version": "2.20.5",
+          "version": "2.20.6",
           "downloadURL": "https://file.ipaomtk.com/Piano/Piano-IPAOMTK.com.ipa"
         }
       ],
@@ -37106,14 +37686,14 @@
       "downloadURL": "https://file.ipaomtk.com/Lyfta-Gym-Workout-Tracker-Log/Lyfta_Gym_Workout_Tracker_Log_IPAOMTK.COM.ipa",
       "versions": [
         {
-          "localizedDescription": "Premium Unlocked",
+          "localizedDescription": "Subscription Unlocked",
           "size": 116077363,
           "date": "2025-09-10T15:21:52Z",
-          "version": "1.151",
+          "version": "1.152",
           "downloadURL": "https://file.ipaomtk.com/Lyfta-Gym-Workout-Tracker-Log/Lyfta_Gym_Workout_Tracker_Log_IPAOMTK.COM.ipa"
         }
       ],
-      "subtitle": "Premium Unlocked",
+      "subtitle": "Subscription Unlocked",
       "name": "Lyfta: Gym Workout Tracker Log"
     },
     {
@@ -37488,7 +38068,7 @@
           "localizedDescription": "Unlimited Energy",
           "size": 253451305,
           "date": "2025-09-05T14:31:43Z",
-          "version": "2.2.0",
+          "version": "2.3.0",
           "downloadURL": "https://file.ipaomtk.com/happy-citizens-mayor-sim-ipa/Happy-Citizens-IPAOMTK.COM.ipa"
         }
       ],
@@ -48254,7 +48834,7 @@
           "localizedDescription": "Unlimited Coins",
           "size": 378210877,
           "date": "2025-06-01T21:23:11Z",
-          "version": "1.9.87",
+          "version": "1.9.88",
           "downloadURL": "https://file.ipaomtk.com/Bus%20Escape%20Traffic%20Jam/Bus-Escape_Traffic-Jam-IPAOMTK.com.ipa"
         }
       ],
@@ -53692,7 +54272,7 @@
           "localizedDescription": "Unlimited Energy",
           "size": 646530990,
           "date": "2025-05-04T20:28:53Z",
-          "version": "59.0",
+          "version": "60.0",
           "downloadURL": "https://file.ipaomtk.com/tasty-travels/Tasty-Travels-IPAOMTK.COM.ipa"
         }
       ],
@@ -54952,7 +55532,7 @@
           "localizedDescription": "Subscription Unlocked",
           "size": 36165386,
           "date": "2025-04-28T14:30:04Z",
-          "version": "4.5.0",
+          "version": "4.5.1",
           "downloadURL": "https://file.ipaomtk.com/super-agent-for-safari/Super_Agent_for_Safari_IPAOMTK.com.ipa"
         }
       ],
@@ -57551,7 +58131,7 @@
           "localizedDescription": "Lifetime Unlocked",
           "size": 111159542,
           "date": "2025-04-17T20:24:13Z",
-          "version": "3.8.14",
+          "version": "3.8.15",
           "downloadURL": "https://file.ipaomtk.com/Travel%20Planner%20Guide/Tripsy_Travel_Planner_IPAOMTK.com.ipa"
         }
       ],
@@ -58888,7 +59468,7 @@
         {
           "localizedDescription": "Damage Multiplier - Never Die",
           "date": "2025-04-10T19:29:31Z",
-          "version": "2.3.1",
+          "version": "2.3.3",
           "downloadURL": "https://file.ipaomtk.com/Transcender%20Idle%20RPG/Transcender-IPAOMTK.COM.ipa"
         }
       ],
@@ -59985,7 +60565,7 @@
           "localizedDescription": "God Mode",
           "size": 1340740731,
           "date": "2025-04-04T20:26:06Z",
-          "version": "2.22.0",
+          "version": "2.23.0",
           "downloadURL": "https://file.ipaomtk.com/dawn-of-ages-total-war-battle-ipa/Dawn-of-Ages-IPAOMTK.COM.ipa"
         }
       ],
@@ -61961,12 +62541,12 @@
           "localizedDescription": "Defense Multiplier",
           "size": 139219436,
           "date": "2025-03-18T20:31:58Z",
-          "version": "9.1.30",
+          "version": "9.2.00",
           "downloadURL": "https://file.ipaomtk.com/shin-megami-tensei-dx%EF%BC%92/SHIN-MEGAMI-TENSEI-IPAOMTK.COM.ipa"
         }
       ],
       "subtitle": "Defense Multiplier",
-      "name": "SHIN MEGAMI TENSEI D×２IPA v9.1.30 (Damage Multiplier) iOS"
+      "name": "SHIN MEGAMI TENSEI D×２IPA v9.2.00 (Damage Multiplier) iOS"
     },
     {
       "bundleIdentifier": "com.ipaomtk.photoboost.ai.photo.enhancer",
@@ -62630,7 +63210,7 @@
     },
     {
       "bundleIdentifier": "com.ipaomtk.gangstar.iv",
-      "localizedDescription": "Gangstar Vegas IPA stands out as more than just a game; ⁤it’s an immersive experience that plunges players into the heart of a⁣ chaotic underworld.",
+      "localizedDescription": "Download Gangstar Vegas IPA for iPhone and iPad. Explore the open-world city, action-packed missions, vehicles, customization, weapons, and immersive gameplay on iOS.",
       "tintColor": "#D03E43",
       "category": "games",
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Gangstar-Vegas-8211-Mafia-action.webp",
@@ -62701,7 +63281,7 @@
           "localizedDescription": "Unlimited Coins",
           "size": 320885228,
           "date": "2025-03-15T21:02:58Z",
-          "version": "1.6.1",
+          "version": "1.6.2",
           "downloadURL": "https://file.ipaomtk.com/Football-League-2026/Football-2026-IPAOMTK.COM.ipa"
         }
       ],
@@ -65221,7 +65801,7 @@
           "localizedDescription": "Infinite Moves",
           "size": 182410281,
           "date": "2025-02-21T20:56:26Z",
-          "version": "2.3.0",
+          "version": "2.4.0",
           "downloadURL": "https://file.ipaomtk.com/angry-birds-dream-blast/Angry-Birds-IPAOMTK.COM.ipa"
         }
       ],
@@ -69978,7 +70558,7 @@
           "localizedDescription": "Ammo",
           "size": 189330883,
           "date": "2025-01-06T18:12:07Z",
-          "version": "1.2.7",
+          "version": "1.3.0",
           "downloadURL": "https://file.ipaomtk.com/Swamp-Attack-2/Swamp-Attack-2-IPAOMTK.COM.ipa"
         }
       ],
@@ -72837,7 +73417,7 @@
           "localizedDescription": "Premium Unlocked",
           "size": 74323067,
           "date": "2024-12-20T17:38:14Z",
-          "version": "13.42",
+          "version": "13.43",
           "downloadURL": "https://file.ipaomtk.com/Buddy/Buddy_Budget_Planner_App_IPAOMTK.com.ipa"
         }
       ],
@@ -72997,7 +73577,7 @@
           "localizedDescription": "Cash Farming",
           "size": 1448031027,
           "date": "2024-12-19T18:43:00Z",
-          "version": "1.14.0",
+          "version": "1.15.0",
           "downloadURL": "https://file.ipaomtk.com/carx-drift-racing-3/carx-drift-racing-3-IPAOMTK.COM.ipa"
         }
       ],
@@ -73336,7 +73916,7 @@
           "localizedDescription": "Premium Unlocked",
           "size": 43106959,
           "date": "2024-12-16T19:30:27Z",
-          "version": "16.1",
+          "version": "16.3",
           "downloadURL": "https://file.ipaomtk.com/oxford-dictionary/Oxford_Dictionary_%26_Thesaurus_IPAOMTK.com.ipa"
         }
       ],
@@ -75936,7 +76516,7 @@
           "localizedDescription": "Damage Multiplier",
           "size": 119286006,
           "date": "2024-11-10T23:31:34Z",
-          "version": "5.340",
+          "version": "5.341",
           "downloadURL": "https://file.ipaomtk.com/GuanYu%20Idle/GuanYu-Idle-IPAOMTK.COM.ipa"
         }
       ],
@@ -79055,7 +79635,7 @@
           "localizedDescription": "Pro Unlocked",
           "size": 36710646,
           "date": "2024-11-03T00:15:01Z",
-          "version": "4.2",
+          "version": "4.3",
           "downloadURL": "https://file.ipaomtk.com/Evertag%20Music/Evertag-Music-Tag-Editor-IPAOMTK.com.ipa"
         }
       ],
@@ -81755,7 +82335,7 @@
           "localizedDescription": "Subscription Unlocked",
           "size": 120040980,
           "date": "2024-11-03T00:13:04Z",
-          "version": "1.6.39",
+          "version": "1.7.0",
           "downloadURL": "https://file.ipaomtk.com/simply-draw-learn-to-draw/Simply_Draw_Learn_to_Draw_IPAOMTK.com.ipa"
         }
       ],
@@ -84555,7 +85135,7 @@
           "localizedDescription": "Subscription Unlocked",
           "size": 132886036,
           "date": "2024-11-03T00:10:14Z",
-          "version": "1.613.0",
+          "version": "1.614.0",
           "downloadURL": "https://file.ipaomtk.com/RISE/RISE_Sleep_Tracker_IPAOMTK.com.ipa"
         }
       ],
@@ -89612,7 +90192,7 @@
           "localizedDescription": "Unlimited Gold",
           "size": 320864256,
           "date": "2024-10-25T02:16:32Z",
-          "version": "2.5.7",
+          "version": "2.5.9",
           "downloadURL": "https://file.ipaomtk.com/grand-war-rome-strategy-games/Grand-War-IPAOMTK.COM.ipa"
         }
       ],
@@ -93977,7 +94557,7 @@
           "localizedDescription": "Damage Multiplier",
           "size": 325215846,
           "date": "2024-10-03T23:21:16Z",
-          "version": "0.770.1",
+          "version": "0.770.2",
           "downloadURL": "https://file.ipaomtk.com/dungeonslasher/DungeonSlasher-IPAOMTK.COM.ipa"
         }
       ],
@@ -101197,7 +101777,7 @@
           "localizedDescription": "Pro Unlocked",
           "size": 72655831,
           "date": "2024-09-08T14:37:08Z",
-          "version": "5.9",
+          "version": "5.9.1",
           "downloadURL": "https://file.ipaomtk.com/Animock/Animock_3D_Mockup_Animator_IPAOMTK.com.ipa"
         }
       ],
@@ -105055,7 +105635,7 @@
           "localizedDescription": "Subscription Unlocked",
           "size": 176685056,
           "date": "2024-08-23T21:57:52Z",
-          "version": "4.1.1",
+          "version": "4.2.0",
           "downloadURL": "https://file.ipaomtk.com/Uplens%20Photo/Uplens-Pro-IPAOMTK.com.ipa"
         }
       ],
@@ -105974,7 +106554,7 @@
         {
           "localizedDescription": "Auto Win",
           "date": "2024-08-12T22:57:52Z",
-          "version": "1.109.1",
+          "version": "1.110.0",
           "downloadURL": "https://file.ipaomtk.com/Limbus%20Company/Limbus-Company-IPAOMTK.COM.ipa"
         }
       ],
@@ -107674,7 +108254,7 @@
           "localizedDescription": "Premium features unlocked",
           "size": 113833411,
           "date": "2024-08-03T19:05:14Z",
-          "version": "2026.3.1",
+          "version": "2026.4.1",
           "downloadURL": "https://file.ipaomtk.com/Plane%20Finder/Plane-Finder-Premium-IPAOMTK.com.ipa"
         }
       ],
@@ -107854,7 +108434,7 @@
           "localizedDescription": "Unlimited Currencies, skips, NO ADS",
           "size": 205625754,
           "date": "2024-08-02T14:55:28Z",
-          "version": "3.19.5",
+          "version": "3.20.0",
           "downloadURL": "https://file.ipaomtk.com/Mob%20Control/Mob-Control-IPAOMTK.COM.ipa"
         }
       ],
@@ -108671,7 +109251,7 @@
         {
           "localizedDescription": "Damage Multiplier",
           "date": "2024-07-25T16:27:18Z",
-          "version": "1.3.133",
+          "version": "1.3.134",
           "downloadURL": "https://file.ipaomtk.com/Rush%21%20Knights%20Idle%20RPG/Rush-Knights-IPAOMTK.COM.ipa.ipa"
         }
       ],
@@ -108731,7 +109311,7 @@
           "localizedDescription": "Subscription Unlocked",
           "size": 137080340,
           "date": "2024-07-24T17:14:22Z",
-          "version": "9.10.79",
+          "version": "9.10.80",
           "downloadURL": "https://file.ipaomtk.com/Simply%20Piano/Simply_Piano_Learn_Piano_Fast_IPAOMTK.com.ipa"
         }
       ],
@@ -115091,14 +115671,14 @@
       "category": "games",
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/06/Duskwood-Detective-Story-thumbnail.png",
       "developerName": "IPAOMTK",
-      "downloadURL": "https://file.ipaomtk.com/ipa/Duskwood.ipa",
+      "downloadURL": "https://file.ipaomtk.com/duskwood-detective-story/duskwood-detective-story-IPAOMTK.COM.ipa",
       "versions": [
         {
           "localizedDescription": "Free IAP",
           "size": 225863270,
           "date": "2024-06-05T21:31:53Z",
           "version": "1.10.17",
-          "downloadURL": "https://file.ipaomtk.com/ipa/Duskwood.ipa"
+          "downloadURL": "https://file.ipaomtk.com/duskwood-detective-story/duskwood-detective-story-IPAOMTK.COM.ipa"
         }
       ],
       "subtitle": "Free IAP",
@@ -115974,7 +116554,7 @@
           "localizedDescription": "Subscription Unlocked",
           "size": 56560189,
           "date": "2024-05-26T11:56:14Z",
-          "version": "7.5",
+          "version": "7.6",
           "downloadURL": "https://file.ipaomtk.com/flacbox-hi-res-music-player/Flacbox_Hi_Res_Music_Player_IPAOMTK.COM.ipa"
         }
       ],
@@ -116413,7 +116993,7 @@
           "localizedDescription": "Unlimited Cash/Unlimited Gold",
           "size": 197048402,
           "date": "2024-05-21T21:56:08Z",
-          "version": "1.26.246",
+          "version": "1.27.248",
           "downloadURL": "https://file.ipaomtk.com/earn-to-die-rogue/Earn-to-Die-IPAOMTK.COM.ipa"
         }
       ],
@@ -132731,7 +133311,7 @@
           "localizedDescription": "Big Goals",
           "size": 177209344,
           "date": "2023-11-13T19:43:48Z",
-          "version": "1.9.1",
+          "version": "1.9.2",
           "downloadURL": "https://file.ipaomtk.com/soccer-super-star-ipa/Soccer-Superstar-IPAOMTK.COM.ipa"
         }
       ],
@@ -136228,7 +136808,7 @@
           "localizedDescription": "Unlimited Money",
           "size": 320098796,
           "date": "2023-09-30T23:21:44Z",
-          "version": "5.53.1",
+          "version": "5.54.0",
           "downloadURL": "https://file.ipaomtk.com/Good%20Pizza%20Great%20Pizza/Good-Pizza-IPAOMTK.COM.ipa"
         }
       ],
@@ -137366,7 +137946,7 @@
           "localizedDescription": "Damage Multiplier",
           "size": 1006632960,
           "date": "2023-08-22T18:31:41Z",
-          "version": "1.15.110",
+          "version": "1.15.113",
           "downloadURL": "https://file.ipaomtk.com/Vampire%20Survivors/Vampire-Survivors-IPAOMTK.COM.ipa"
         }
       ],
@@ -138785,7 +139365,7 @@
           "localizedDescription": "Damage Multiplier - Never Die",
           "size": 152536351,
           "date": "2023-08-16T20:06:56Z",
-          "version": "1.2.45",
+          "version": "1.2.46",
           "downloadURL": "https://file.ipaomtk.com/gridpunk-pvp-battle-arena/Gridpunk-PvP-Battle-IPAOMTK.COM.ipa"
         }
       ],
@@ -139164,7 +139744,7 @@
           "localizedDescription": "Always Perfect Shot",
           "size": 150260941,
           "date": "2023-08-13T19:46:08Z",
-          "version": "5.17.0",
+          "version": "5.18.0",
           "downloadURL": "https://file.ipaomtk.com/PGA%20TOUR%20Golf%20Shootout/PGA-TOUR-IPAOMTK.COM.ipa"
         }
       ],
@@ -140619,7 +141199,7 @@
           "localizedDescription": "Capture Rate 100%",
           "size": 200068301,
           "date": "2023-07-31T18:41:04Z",
-          "version": "4.4.2",
+          "version": "4.4.4",
           "downloadURL": "https://file.ipaomtk.com/Monster%20Super%20League/Monster-Super-IPAOMTK.COM.ipa"
         }
       ],
@@ -141478,7 +142058,7 @@
           "localizedDescription": "Unlimited Money",
           "size": 176160768,
           "date": "2023-07-02T14:34:30Z",
-          "version": "8.0.2",
+          "version": "8.0.6",
           "downloadURL": "https://file.ipaomtk.com/Hungry%20Shark%20World/Hungry-Shark-IPAOMTK.COM.ipa"
         }
       ],
@@ -142115,7 +142695,7 @@
           "localizedDescription": "added speed",
           "size": 105727918,
           "date": "2023-06-19T13:04:27Z",
-          "version": "3.5.2631",
+          "version": "3.5.2632",
           "downloadURL": "https://file.ipaomtk.com/Coin-Master/Coin-Master-IPAOMTK.COM.ipa"
         }
       ],
@@ -142754,7 +143334,7 @@
           "localizedDescription": "Unlimited Currencies/No Ads",
           "size": 464141681,
           "date": "2023-06-15T20:54:34Z",
-          "version": "1.7.8",
+          "version": "1.7.9",
           "downloadURL": "https://file.ipaomtk.com/Rent%20Please%21%20Landlord%20Sim/Rent-Please-IPAOMTK.COM.ipa"
         }
       ],
@@ -143014,7 +143594,7 @@
           "localizedDescription": "God Mode",
           "size": 139460608,
           "date": "2023-06-13T23:03:40Z",
-          "version": "1.3.366",
+          "version": "1.3.372",
           "downloadURL": "https://file.ipaomtk.com/brotato/Brotato-IPAOMTK.COM.ipa"
         }
       ],
@@ -143583,22 +144163,21 @@
     },
     {
       "bundleIdentifier": "com.ipaomtk.marine.force.heroes.of.war",
-      "localizedDescription": "Marine Force Heroes of War IPA a new action-packed game has been released called Marine Force Heroes of War. It is available on iOS and offers players an",
+      "localizedDescription": "Marine Force Heroes of War IPA IOS Marine Force Heroes of War IPA a new action-packed game has been released called Marine Force Heroes of War. It is",
       "tintColor": "#D03E43",
       "category": "games",
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/marine-force-heroes-of-war-poster.png",
       "developerName": "IPAOMTK",
-      "downloadURL": "https://file.ipaomtk.com/ipa/Marine-Force.ipa",
+      "downloadURL": "https://file.ipaomtk.com/marine-force-heroes-of-war/marine-force-heroes-of-war-IPAOMTK.COM.ipa",
       "versions": [
         {
-          "localizedDescription": "Unlimited Money, Stars",
-          "size": 1,
+          "localizedDescription": "Free Buying",
           "date": "2023-06-05T20:30:55Z",
-          "version": "Marine-Force.ipa",
-          "downloadURL": "https://file.ipaomtk.com/ipa/Marine-Force.ipa"
+          "version": "2.0.1",
+          "downloadURL": "https://file.ipaomtk.com/marine-force-heroes-of-war/marine-force-heroes-of-war-IPAOMTK.COM.ipa"
         }
       ],
-      "subtitle": "Unlimited Money, Stars",
+      "subtitle": "Free Buying",
       "name": "Marine Force Heroes of War"
     },
     {
@@ -143734,7 +144313,7 @@
           "localizedDescription": "no ads and iGG to get unlimited coins",
           "size": 198558351,
           "date": "2023-06-05T19:50:54Z",
-          "version": "3.12.70",
+          "version": "3.12.80",
           "downloadURL": "https://file.ipaomtk.com/Wordscapes/Wordscapes-IGG-no-ads-IPAOMTK.com.ipa"
         }
       ],
@@ -150190,7 +150769,7 @@
           "localizedDescription": "Infinite Boosters",
           "size": 195653796,
           "date": "2023-03-21T00:58:46Z",
-          "version": "9.9.2",
+          "version": "9.9.7",
           "downloadURL": "https://file.ipaomtk.com/fishdom/Fishdom-IPAOMTK.COM.ipa"
         }
       ],
@@ -150409,7 +150988,7 @@
           "localizedDescription": "Unlimited Storage",
           "size": 311332700,
           "date": "2023-03-18T20:47:26Z",
-          "version": "8.3.0",
+          "version": "8.3.1",
           "downloadURL": "https://file.ipaomtk.com/grim-soul-dark-survival/Grim-Soul-IPAOMTK.COM.ipa"
         }
       ],
@@ -151927,7 +152506,7 @@
           "localizedDescription": "Flow",
           "size": 66637005,
           "date": "2023-02-26T23:11:52Z",
-          "version": "565.0.0",
+          "version": "571.0.0",
           "downloadURL": "https://file.ipaomtk.com/Messenger-FC/Facebook-Messenger-Flow-IPAOMTK.COM.ipa"
         }
       ],
@@ -153187,7 +153766,7 @@
           "localizedDescription": "Subscription Unlocked",
           "size": 688128,
           "date": "2023-02-18T21:46:19Z",
-          "version": "461.5.4",
+          "version": "461.5.5",
           "downloadURL": "https://file.ipaomtk.com/VSCO/VSCO_Photo_Editor_%26_Presets_IPAOMTK.com.ipa"
         }
       ],
@@ -153367,7 +153946,7 @@
           "localizedDescription": "Never Die",
           "size": 195821568,
           "date": "2023-02-18T21:31:35Z",
-          "version": "3.8.0",
+          "version": "3.8.1",
           "downloadURL": "https://file.ipaomtk.com/age-of-magic-ipa/Age-of-Magic-IPAOMTK.COM.ipa"
         }
       ],
@@ -157405,7 +157984,7 @@
           "localizedDescription": "Premium",
           "size": 335229747,
           "date": "2023-02-18T17:59:08Z",
-          "version": "8.11.5",
+          "version": "8.12.0",
           "downloadURL": "https://file.ipaomtk.com/AirBrush/Airbrush-IPAOMTK.COM.ipa"
         }
       ],
@@ -158364,7 +158943,7 @@
           "localizedDescription": "Always Perfect Shift",
           "size": 1986422374,
           "date": "2023-02-16T20:03:48Z",
-          "version": "8.6.0",
+          "version": "8.7.0",
           "downloadURL": "https://file.ipaomtk.com/nitro-nation-drag-ipa/Nitro-Nation-IPAOMTK.COM.ipa"
         }
       ],
@@ -158753,7 +159332,7 @@
     },
     {
       "bundleIdentifier": "com.ipaomtk.last.day.on.earth.survival.ipa",
-      "localizedDescription": "Last Day on Earth survival IPA MOD is a wildly popular mobile game that⁣ puts players​ in​ the midst of a post-apocalyptic world where Last Day on Earth",
+      "localizedDescription": "Download Last Day on Earth: Survival IPA for iPhone and iPad. Explore survival gameplay, crafting, base building, zombies, multiplayer elements, and immersive action on iOS.",
       "tintColor": "#D03E43",
       "category": "games",
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Last-Day-On-Earth.jpg",
@@ -158764,7 +159343,7 @@
           "localizedDescription": "Mega Menu",
           "size": 979044925,
           "date": "2023-02-16T19:48:49Z",
-          "version": "1.49.9",
+          "version": "1.50.0",
           "downloadURL": "https://file.ipaomtk.com/last-day-on-earth-survival-ipa/Last-Day-on-Earth-IPAOMTK.COM.ipa"
         }
       ],
