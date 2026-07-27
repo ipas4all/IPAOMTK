@@ -1,9 +1,249 @@
 {
   "featuredApps": [
-    "com.ipaomtk.tico.cutout.ef.bd.9ccollage.ef.bd.9cscrapbook"
+    "com.ipaomtk.amiiboss"
   ],
   "description": "IPAOMTK without the bullshit",
   "apps": [
+    {
+      "bundleIdentifier": "com.ipaomtk.amiiboss",
+      "localizedDescription": "AmiiBoss IPA for iPhone helps users manage amiibo collections, scan compatible NFC tags, organize character data, and back up supported NTAG215 tags on iOS.",
+      "tintColor": "#D03E43",
+      "category": "utilities",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/AmiiBoss-IPA-v7.26-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/amiiboss/amiiboss-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlocked features",
+          "size": 64382566,
+          "date": "2026-07-26T14:20:19Z",
+          "version": "7.26",
+          "downloadURL": "https://file.ipaomtk.com/amiiboss/amiiboss-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlocked features",
+      "name": "AmiiBoss"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.stickman.annihilation.4",
+      "localizedDescription": "Stickman Annihilation 4 IPA for iPhone is a physics-based stickman action game featuring explosive vehicle combat, destructive crashes, challenging missions, and fast-paced gameplay on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Stickman-Annihilation-4-IPA-v1.03-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/stickman-annihilation-4/stickman-annihilation-4-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Free store",
+          "size": 160421642,
+          "date": "2026-07-26T14:18:36Z",
+          "version": "1.03",
+          "downloadURL": "https://file.ipaomtk.com/stickman-annihilation-4/stickman-annihilation-4-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Free store",
+      "name": "Stickman Annihilation 4"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.run.epic",
+      "localizedDescription": "Run Epic IPA for iPhone is a fast-paced endless runner featuring obstacle courses, exciting parkour action, character customization, challenging levels, and smooth gameplay on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Run-Epic-IPA-v1.12-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/run-epic/run-epic-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Free store",
+          "size": 182986998,
+          "date": "2026-07-26T14:18:34Z",
+          "version": "1.12",
+          "downloadURL": "https://file.ipaomtk.com/run-epic/run-epic-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Free store",
+      "name": "Run Epic"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.mr.ricochet",
+      "localizedDescription": "Mr Ricochet IPA for iPhone is a physics-based puzzle shooter featuring ricochet mechanics, strategic aiming, challenging levels, clever obstacles, and satisfying action gameplay on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Mr-Ricochet-IPA-v1.05-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/mr-ricochet/mr-ricochet-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Free store",
+          "size": 295750861,
+          "date": "2026-07-26T14:18:31Z",
+          "version": "1.05",
+          "downloadURL": "https://file.ipaomtk.com/mr-ricochet/mr-ricochet-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Free store",
+      "name": "Mr Ricochet"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.stickman.clans",
+      "localizedDescription": "Stickman Clans IPA for iPhone is a stickman strategy game featuring clan battles, hero upgrades, tactical combat, multiplayer competition, and engaging action gameplay on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Stickman-Clans-IPA-v1.15-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/stickman-clans/stickman-clans-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Free store",
+          "size": 369339924,
+          "date": "2026-07-26T14:18:28Z",
+          "version": "1.15",
+          "downloadURL": "https://file.ipaomtk.com/stickman-clans/stickman-clans-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Free store",
+      "name": "Stickman Clans"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.dynasty.warriors.ef.bc.9aoverlords",
+      "localizedDescription": "Dynasty Warriors: Overlords IPA for iPhone is an action RPG featuring hack-and-slash combat, legendary Three Kingdoms heroes, strategic progression, large-scale battles, and immersive gameplay on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Dynasty-Warriors：Overlords-IPA-v1.0.2-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/dynasty-warriors%EF%BC%9Aoverlords/dynasty-warriors-overlords-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Multiply Attack",
+          "size": 4073518531,
+          "date": "2026-07-26T14:07:06Z",
+          "version": "1.0.2",
+          "downloadURL": "https://file.ipaomtk.com/dynasty-warriors%EF%BC%9Aoverlords/dynasty-warriors-overlords-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Multiply Attack",
+      "name": "Dynasty Warriors：Overlords"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.stick.warfare.battle.strike",
+      "localizedDescription": "Stick Warfare Battle Strike IPA for iPhone is a stickman action shooter featuring intense battles, strategic combat, weapon upgrades, challenging missions, and fast-paced gameplay on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Stick-Warfare-Battle-Strike-IPA-v4-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/stick-warfare-battle-strike/stick-warfare-battle-strike-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Free store",
+          "size": 441754583,
+          "date": "2026-07-26T13:25:32Z",
+          "version": "4",
+          "downloadURL": "https://file.ipaomtk.com/stick-warfare-battle-strike/stick-warfare-battle-strike-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Free store",
+      "name": "Stick Warfare Battle Strike"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.battle.archer.3d.shooter.war",
+      "localizedDescription": "Battle Archer: 3D Shooter War IPA for iPhone is an action archery game featuring strategic shooting, immersive 3D battles, weapon upgrades, challenging missions, and dynamic combat on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Battle-Archer-3D-Shooter-War-IPA-v2.0-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/battle-archer-3d-shooter-war/battle-archer-3d-shooter-war-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Free store",
+          "size": 796477358,
+          "date": "2026-07-26T13:24:30Z",
+          "version": "2.0",
+          "downloadURL": "https://file.ipaomtk.com/battle-archer-3d-shooter-war/battle-archer-3d-shooter-war-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Free store",
+      "name": "Battle Archer: 3D Shooter War"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.hide.in.the.backroom.online",
+      "localizedDescription": "Hide in The Backroom: Online IPA for iPhone is a multiplayer horror game featuring cooperative survival, puzzle-solving, eerie environments, online gameplay, and thrilling escape challenges on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Hide-in-The-Backroom-Online-IPA-v1.0-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/hide-in-the-backroom-online/hide-in-the-backroom-online-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Free store",
+          "size": 990296146,
+          "date": "2026-07-26T13:24:21Z",
+          "version": "1.0",
+          "downloadURL": "https://file.ipaomtk.com/hide-in-the-backroom-online/hide-in-the-backroom-online-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Free store",
+      "name": "Hide in The Backroom: Online"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.sentence",
+      "localizedDescription": "Sentence IPA for iPhone is a psychological detective thriller featuring realistic messaging, interactive investigations, hacking puzzles, branching choices, and immersive crime-solving gameplay on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Sentence-IPA-v1.4-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/sentence/sentence-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlimited Credits",
+          "size": 205237780,
+          "date": "2026-07-26T12:49:02Z",
+          "version": "1.4",
+          "downloadURL": "https://file.ipaomtk.com/sentence/sentence-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlimited Credits",
+      "name": "Sentence"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.i.am.innocent",
+      "localizedDescription": "I Am Innocent IPA for iPhone is a detective mystery game featuring realistic messaging, interactive investigations, puzzle-solving, branching choices, and immersive crime-solving on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/I-Am-Innocent-IPA-v2.2-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/i-am-innocent/i-am-innocent-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Free IAP",
+          "size": 124602286,
+          "date": "2026-07-26T12:48:56Z",
+          "version": "2.2",
+          "downloadURL": "https://file.ipaomtk.com/i-am-innocent/i-am-innocent-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Free IAP",
+      "name": "I Am Innocent"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.window.meow",
+      "localizedDescription": "Window Meow IPA for iPhone is a relaxing virtual pet game featuring adorable cats, interactive animations, daily activities, charming visuals, and cozy companionship on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/Window-Meow-IPA-v1.0.3872-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/window-meow/window-meow-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlimited Coins",
+          "size": 578541322,
+          "date": "2026-07-26T12:48:48Z",
+          "version": "1.0.3872",
+          "downloadURL": "https://file.ipaomtk.com/window-meow/window-meow-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlimited Coins",
+      "name": "Window Meow"
+    },
     {
       "bundleIdentifier": "com.ipaomtk.tico.cutout.ef.bd.9ccollage.ef.bd.9cscrapbook",
       "localizedDescription": "Tico: Cutout｜Collage｜Scrapbook IPA for iPhone lets users create photo collages, cut out backgrounds, design digital scrapbooks, and edit images with creative tools on iOS.",
@@ -1177,7 +1417,7 @@
           "localizedDescription": "Unlimited Cash",
           "size": 245230469,
           "date": "2026-07-18T12:26:16Z",
-          "version": "1.0.2",
+          "version": "1.0.03",
           "downloadURL": "https://file.ipaomtk.com/reactor-2-nuclear-tycoon/reactor-2-nuclear-tycoon-IPAOMTK.COM.ipa"
         }
       ],
@@ -3217,7 +3457,7 @@
           "localizedDescription": "Unlimited Gold",
           "size": 139722752,
           "date": "2026-07-06T10:59:55Z",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "downloadURL": "https://file.ipaomtk.com/metal-slug-rush/Metal-Slug-Rush-IPAOMTK.COM.ipa"
         }
       ],
@@ -4577,7 +4817,7 @@
           "localizedDescription": "ATK MAX",
           "size": 1522731581,
           "date": "2026-06-29T06:53:37Z",
-          "version": "115",
+          "version": "118",
           "downloadURL": "https://file.ipaomtk.com/tiny-divines/Tiny-Divines-IPAOMTK.COM.ipa"
         }
       ],
@@ -5057,7 +5297,7 @@
           "localizedDescription": "No Ads",
           "size": 284132639,
           "date": "2026-06-27T07:00:43Z",
-          "version": "3.3",
+          "version": "3.4",
           "downloadURL": "https://file.ipaomtk.com/sheep-dash-farm-animal-escape/Sheep-Dash-Farm-Animal-Escape-IPAOMTK.COM.ipa"
         }
       ],
@@ -6676,7 +6916,7 @@
           "localizedDescription": "Unlimited Blood",
           "size": 368522035,
           "date": "2026-06-13T12:52:09Z",
-          "version": "1.1.3",
+          "version": "1.4.1",
           "downloadURL": "https://file.ipaomtk.com/void-reaper-idle-rpg/Void-Reaper-Idle-RPG-IPAOMTK.COM.ipa"
         }
       ],
@@ -11473,7 +11713,7 @@
           "localizedDescription": "Unlimited Energy",
           "size": 427965809,
           "date": "2026-05-15T11:17:26Z",
-          "version": "2625.0.0",
+          "version": "2626.1.0",
           "downloadURL": "https://file.ipaomtk.com/merge-age-stone-haven/Merge-Age-Stone-Haven-IPAOMTK.COM.ipa"
         }
       ],
@@ -15132,7 +15372,7 @@
           "localizedDescription": "PREMIUM",
           "size": 180659159,
           "date": "2026-04-27T17:55:24Z",
-          "version": "4.4.1",
+          "version": "4.5.0",
           "downloadURL": "https://file.ipaomtk.com/ages-of-conflict-world-war-sim/Ages-of-Conflict-World-War-Sim--IPAOMTK.COM.ipa"
         }
       ],
@@ -19064,7 +19304,7 @@
       "localizedDescription": "Devour Idle RPG IPA for iPhone offers addictive idle progression, monster devouring mechanics, and smooth performance for a unique RPG experience.",
       "tintColor": "#D03E43",
       "category": "games",
-      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Devour-Idle.jpg",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/DevourDevour.jpg",
       "developerName": "IPAOMTK",
       "downloadURL": "https://file.ipaomtk.com/devour-idle-rpg/Devour-Idle-RPG-IPAOMTK.COM.ipa",
       "versions": [
@@ -19072,7 +19312,7 @@
           "localizedDescription": "God Mode",
           "size": 197604147,
           "date": "2026-04-05T21:10:30Z",
-          "version": "1.3.13",
+          "version": "2.0.2",
           "downloadURL": "https://file.ipaomtk.com/devour-idle-rpg/Devour-Idle-RPG-IPAOMTK.COM.ipa"
         }
       ],
@@ -19932,7 +20172,7 @@
           "localizedDescription": "Add Coins",
           "size": 390688932,
           "date": "2026-03-28T12:25:10Z",
-          "version": "0.17",
+          "version": "0.18",
           "downloadURL": "https://file.ipaomtk.com/nom-nom-town-restaurant-game/Nom-Nom-IPAOMTK.COM.ipa"
         }
       ],
@@ -22652,7 +22892,7 @@
           "localizedDescription": "Unlimited Booster",
           "size": 310567240,
           "date": "2026-02-24T21:56:46Z",
-          "version": "4.7",
+          "version": "4.9",
           "downloadURL": "https://file.ipaomtk.com/wool-crush-escape-traffic-jam/Wool-Crush-IPAOMTK.COM.ipa"
         }
       ],
@@ -24512,7 +24752,7 @@
           "localizedDescription": "Unlimited Gems",
           "size": 377655132,
           "date": "2026-02-07T17:43:06Z",
-          "version": "1.7.9",
+          "version": "1.8.1",
           "downloadURL": "https://file.ipaomtk.com/Sand-Blast-Block-Puzzle/Sand-Blast-Block-Puzzle-ipaomtk.com.ipa"
         }
       ],
@@ -24552,7 +24792,7 @@
           "localizedDescription": "Buy Anything for Free",
           "size": 204765921,
           "date": "2026-02-07T09:03:16Z",
-          "version": "0.1.5",
+          "version": "0.1.9",
           "downloadURL": "https://file.ipaomtk.com/retro-wings-air-combat/Retro-Wings-IPAOMTK.COM.ipa.ipa"
         }
       ],
@@ -30320,7 +30560,7 @@
           "localizedDescription": "Defense Multiplier",
           "size": 1357255803,
           "date": "2025-12-18T20:08:06Z",
-          "version": "1.5.0",
+          "version": "1.5.2",
           "downloadURL": "https://file.ipaomtk.com/Lava%20Survival/Lava-Survival-IPAOMTK.COM.ipa"
         }
       ],
@@ -30757,7 +30997,7 @@
           "localizedDescription": "Unlimited Coins",
           "size": 392240824,
           "date": "2025-12-15T17:32:25Z",
-          "version": "0.30.1",
+          "version": "0.30.3",
           "downloadURL": "https://file.ipaomtk.com/pixel-flow/Pixel-Flow-IPAOMTK.COM.ipa"
         }
       ],
@@ -32713,7 +32953,7 @@
           "localizedDescription": "Unlimited Currency",
           "size": 139638866,
           "date": "2025-11-22T18:24:38Z",
-          "version": "1.13.4",
+          "version": "1.13.5",
           "downloadURL": "https://file.ipaomtk.com/evergrove-idle-grow-magic-ipa/Evergrove-Idle-IPAOMTK.COM.ipa"
         }
       ],
@@ -37550,7 +37790,7 @@
           "localizedDescription": "Unlimited Currency",
           "size": 149715681,
           "date": "2025-09-16T14:12:04Z",
-          "version": "1.051",
+          "version": "1.052",
           "downloadURL": "https://file.ipaomtk.com/Arcane%20Arena%20Tower%20Defense%20TD/Arcane-Arena-IPAOMTK.COM.ipa"
         }
       ],
@@ -39386,7 +39626,7 @@
           "localizedDescription": "Damage Multiplier",
           "size": 3221225472,
           "date": "2025-08-25T15:25:15Z",
-          "version": "1.43.0",
+          "version": "1.44.0",
           "downloadURL": "https://file.ipaomtk.com/Project-Entropy/Project-Entropy-IPAOMTK.COM.ipa"
         }
       ],
@@ -86755,7 +86995,7 @@
           "localizedDescription": "Currency Max",
           "size": 453194547,
           "date": "2024-11-03T00:09:10Z",
-          "version": "5.95",
+          "version": "5.96",
           "downloadURL": "https://file.ipaomtk.com/everybodys-rpg/Everybodys-RPG-IPAOMTK.COM.ipa"
         }
       ],
@@ -90572,7 +90812,7 @@
           "localizedDescription": "Unlimited Gold",
           "size": 320864256,
           "date": "2024-10-25T02:16:32Z",
-          "version": "2.5.9",
+          "version": "2.6.0",
           "downloadURL": "https://file.ipaomtk.com/grand-war-rome-strategy-games/Grand-War-IPAOMTK.COM.ipa"
         }
       ],
@@ -128752,16 +128992,16 @@
       "category": "games",
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Craft-of-Survival-Gladiators-thumbnail.jpg",
       "developerName": "IPAOMTK",
-      "downloadURL": "https://file.ipaomtk.com/ipa/Craft-of-Survival-Gladiators.ipa",
+      "downloadURL": "https://file.ipaomtk.com/craft-of-survival-gladiators-ipa/craft-of-survival-gladiators-IPAOMTK.COM.ipa",
       "versions": [
         {
-          "localizedDescription": "Unlocked",
+          "localizedDescription": "Defense Multiplier",
           "date": "2024-01-24T19:21:12Z",
-          "version": "5.4",
-          "downloadURL": "https://file.ipaomtk.com/ipa/Craft-of-Survival-Gladiators.ipa"
+          "version": "5.6",
+          "downloadURL": "https://file.ipaomtk.com/craft-of-survival-gladiators-ipa/craft-of-survival-gladiators-IPAOMTK.COM.ipa"
         }
       ],
-      "subtitle": "Unlocked",
+      "subtitle": "Defense Multiplier",
       "name": "Craft of Survival Gladiators"
     },
     {
@@ -134991,7 +135231,7 @@
           "localizedDescription": "Infinite Moves/Booster/Lives",
           "size": 488237957,
           "date": "2023-10-29T11:00:26Z",
-          "version": "1.206.0",
+          "version": "1.207.0",
           "downloadURL": "https://file.ipaomtk.com/matchington-mansion-ipa/Matchington-Mansion-IPAOMTK.COM.ipa"
         }
       ],
@@ -137188,7 +137428,7 @@
           "localizedDescription": "Unlimited Money",
           "size": 320098796,
           "date": "2023-09-30T23:21:44Z",
-          "version": "5.54.2",
+          "version": "5.54.3",
           "downloadURL": "https://file.ipaomtk.com/Good%20Pizza%20Great%20Pizza/Good-Pizza-IPAOMTK.COM.ipa"
         }
       ],
