@@ -1,9 +1,266 @@
 {
   "featuredApps": [
-    "com.ipaomtk.fnaf.6.pizzeria.simulator"
+    "com.ipaomtk.food.journal.daily"
   ],
   "description": "IPAOMTK without the bullshit",
   "apps": [
+    {
+      "bundleIdentifier": "com.ipaomtk.food.journal.daily",
+      "localizedDescription": "Food Journal Daily IPA for iPhone is a nutrition tracking app featuring meal logging, food journaling, healthy habit tracking, nutrition insights, and wellness monitoring on iOS.",
+      "tintColor": "#D03E43",
+      "category": "food.drink",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/Food-Journal-Daily-IPA-v1.9.4-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/food-journal-daily/food-journal-daily-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlocked features",
+          "size": 81558241,
+          "date": "2026-08-01T12:55:31Z",
+          "version": "1.9.4",
+          "downloadURL": "https://file.ipaomtk.com/food-journal-daily/food-journal-daily-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlocked features",
+      "name": "Food Journal Daily"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.btolat.live.scores.news",
+      "localizedDescription": "Btolat - Live Scores \u0026 News IPA for iPhone is a football companion app featuring live scores, breaking football news, match schedules, standings, statistics, and match highlights on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/Btolat-8211-Live-Scores-038-News-IPA-v3.0.1-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/btolat-live-scores-news/btolat-live-scores-news-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Without ads",
+          "size": 33281802,
+          "date": "2026-08-01T12:51:49Z",
+          "version": "3.0.1",
+          "downloadURL": "https://file.ipaomtk.com/btolat-live-scores-news/btolat-live-scores-news-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Without ads",
+      "name": "Btolat – Live Scores \u0026 News"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.voice.translate.translator",
+      "localizedDescription": "Voice Translate : translator IPA for iPhone is a language translation app featuring real-time voice translation, text translation, conversation mode, multilingual support, and travel-friendly communication tools on iOS.",
+      "tintColor": "#D03E43",
+      "category": "education",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/Voice-Translate-translator-IPA-v3.0.15-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/voice-translate-translator/voice-translate-translator-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Features unlocked",
+          "size": 69877105,
+          "date": "2026-08-01T12:49:06Z",
+          "version": "3.0.15",
+          "downloadURL": "https://file.ipaomtk.com/voice-translate-translator/voice-translate-translator-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Features unlocked",
+      "name": "Voice Translate : translator"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.bounce.dunk.basketball.game",
+      "localizedDescription": "Bounce Dunk - basketball game IPA for iPhone is a casual basketball puzzle game featuring trick shots, physics-based gameplay, challenging levels, colorful visuals, and satisfying dunk mechanics on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/Bounce-Dunk-8211-basketball-game-IPA-v1.1.40-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/bounce-dunk-basketball-game/bounce-dunk-basketball-game-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "9 million coins",
+          "size": 302136689,
+          "date": "2026-08-01T12:42:54Z",
+          "version": "1.1.40",
+          "downloadURL": "https://file.ipaomtk.com/bounce-dunk-basketball-game/bounce-dunk-basketball-game-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "9 million coins",
+      "name": "Bounce Dunk – basketball game"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.pdf.scanner.e3.83.bbdocument.scanner.e3.83.bb",
+      "localizedDescription": "PDF Scanner・Document Scanner IPA for iPhone is a document scanning app featuring PDF creation, OCR text recognition, document management, high-quality scans, and cloud-friendly sharing on iOS.",
+      "tintColor": "#D03E43",
+      "category": "business",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/PDF-Scanner・Document-Scanner・-IPA-v2.7.4-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/pdf-scanner-document-scanner/pdf-scanner-document-scanner-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlocked features",
+          "size": 117964800,
+          "date": "2026-08-01T12:42:48Z",
+          "version": "2.7.4",
+          "downloadURL": "https://file.ipaomtk.com/pdf-scanner-document-scanner/pdf-scanner-document-scanner-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlocked features",
+      "name": "PDF Scanner・Document Scanner・"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.royal.sort",
+      "localizedDescription": "Royal Sort™ IPA for iPhone is a relaxing puzzle game featuring color sorting, strategic challenges, satisfying gameplay, beautiful visuals, and progressively difficult levels on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/Royal-Sort™-IPA-v5.2-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/royal-sort/royal-sort-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "9 Million Coins",
+          "size": 266568991,
+          "date": "2026-08-01T12:28:51Z",
+          "version": "5.2",
+          "downloadURL": "https://file.ipaomtk.com/royal-sort/royal-sort-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "9 Million Coins",
+      "name": "Royal Sort™"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.iro.ai.learn.ai.skills",
+      "localizedDescription": "Iro AI — Learn AI Skills IPA for iPhone is an AI learning app featuring interactive lessons, practical exercises, personalized learning paths, quizzes, and artificial intelligence education on iOS.",
+      "tintColor": "#D03E43",
+      "category": "education",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/Iro-AI-—-Learn-AI-Skills-IPA-v3.0-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/iro-ai-learn-ai-skills/iro-ai-learn-ai-skills-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Features unlocked",
+          "size": 112659005,
+          "date": "2026-08-01T12:13:09Z",
+          "version": "3.0",
+          "downloadURL": "https://file.ipaomtk.com/iro-ai-learn-ai-skills/iro-ai-learn-ai-skills-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Features unlocked",
+      "name": "Iro AI — Learn AI Skills"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.lost.twins.2",
+      "localizedDescription": "Lost Twins 2 IPA for iPhone is a charming puzzle adventure game featuring environmental puzzles, platforming, beautiful hand-crafted worlds, relaxing gameplay, and story-driven exploration on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/Lost-Twins-2-IPA-v1.3-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/lost-twins-2/lost-twins-2-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Unlock Full Game",
+          "size": 510708941,
+          "date": "2026-08-01T12:13:03Z",
+          "version": "1.3",
+          "downloadURL": "https://file.ipaomtk.com/lost-twins-2/lost-twins-2-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Unlock Full Game",
+      "name": "Lost Twins 2"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.time.evolve.age.rush",
+      "localizedDescription": "Time Evolve: Age Rush IPA for iPhone is a fast-paced runner game featuring time evolution, age progression, obstacle challenges, character upgrades, and exciting action gameplay on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/Time-Evolve-Age-Rush-IPA-v0.0.1-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/time-evolve-age-rush/time-evolve-age-rush-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Freeze Energy",
+          "size": 488930017,
+          "date": "2026-08-01T12:01:58Z",
+          "version": "0.0.1",
+          "downloadURL": "https://file.ipaomtk.com/time-evolve-age-rush/time-evolve-age-rush-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Freeze Energy",
+      "name": "Time Evolve: Age Rush"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.yakuza.online.japan",
+      "localizedDescription": "Yakuza Online Japan IPA for iPhone is a story-driven RPG featuring turn-based battles, character collection, strategic combat, multiplayer events, and immersive gameplay set in the Yakuza universe on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/Yakuza-Online-Japan.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/yakuza-online-japan/yakuza-online-japan-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Damage Multiplier",
+          "date": "2026-08-01T11:54:43Z",
+          "version": "5.0.4",
+          "downloadURL": "https://file.ipaomtk.com/yakuza-online-japan/yakuza-online-japan-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Damage Multiplier",
+      "name": "Yakuza Online Japan"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.raising.an.assassin.idle.rpg",
+      "localizedDescription": "Raising an Assassin Idle RPG IPA for iPhone is an idle action RPG featuring assassin progression, auto battles, skill upgrades, equipment enhancement, boss fights, and offline rewards on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/Raising-an-Assassin-Idle-RPG.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/raising-an-assassin-idle-rpg/raising-an-assassin-idle-rpg-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Damage Multiplier",
+          "date": "2026-08-01T11:50:21Z",
+          "version": "1.2.11",
+          "downloadURL": "https://file.ipaomtk.com/raising-an-assassin-idle-rpg/raising-an-assassin-idle-rpg-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Damage Multiplier",
+      "name": "Raising an Assassin Idle RPG"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.gale.knights.idle.rpg",
+      "localizedDescription": "Gale Knights Idle RPG IPA for iPhone is an idle fantasy RPG featuring hero collection, automatic battles, character progression, equipment upgrades, and strategic team building on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/Gale-Knights-Idle-RPG.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/gale-knights-idle-rpg/gale-knights-idle-rpg-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "Damage Multiplier",
+          "date": "2026-08-01T11:43:16Z",
+          "version": "1.1.3",
+          "downloadURL": "https://file.ipaomtk.com/gale-knights-idle-rpg/gale-knights-idle-rpg-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "Damage Multiplier",
+      "name": "Gale Knights Idle RPG"
+    },
+    {
+      "bundleIdentifier": "com.ipaomtk.super.heavy.iron.tank",
+      "localizedDescription": "Super Heavy Iron Tank IPA for iPhone is an action-packed tank combat game featuring armored vehicles, strategic battles, powerful upgrades, explosive missions, and immersive warfare gameplay on iOS.",
+      "tintColor": "#D03E43",
+      "category": "games",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/Super-Heavy-Iron-Tank-IPA-v1.1.15-Unlocked-For-iOS-featured-image.jpg",
+      "developerName": "IPAOMTK",
+      "downloadURL": "https://file.ipaomtk.com/super-heavy-iron-tank/super-heavy-iron-tank-IPAOMTK.COM.ipa",
+      "versions": [
+        {
+          "localizedDescription": "ADS NO",
+          "size": 322992865,
+          "date": "2026-08-01T11:43:09Z",
+          "version": "1.1.15",
+          "downloadURL": "https://file.ipaomtk.com/super-heavy-iron-tank/super-heavy-iron-tank-IPAOMTK.COM.ipa"
+        }
+      ],
+      "subtitle": "ADS NO",
+      "name": "Super Heavy Iron Tank"
+    },
     {
       "bundleIdentifier": "com.ipaomtk.fnaf.6.pizzeria.simulator",
       "localizedDescription": "FNaF 6 Pizzeria Simulator IPA for iPhone combines restaurant management, strategic decision-making, horror survival, and suspenseful gameplay in a unique Five Nights at Freddy’s experience.",
@@ -369,7 +626,7 @@
       "localizedDescription": "100VJ IPA for iPhone and iPad: explore its photo \u0026 video features, compatibility, privacy, performance, and user value.",
       "tintColor": "#D03E43",
       "category": "entertainment",
-      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/07/512x512bb-6.jpg",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/08/512x512bb.jpg",
       "developerName": "IPAOMTK",
       "downloadURL": "https://file.ipaomtk.com/100vj/100vj-IPAOMTK.COM.ipa",
       "versions": [
@@ -2337,7 +2594,7 @@
           "localizedDescription": "Free store",
           "size": 590956462,
           "date": "2026-07-22T12:23:12Z",
-          "version": "47.0.6",
+          "version": "47.0.8",
           "downloadURL": "https://file.ipaomtk.com/coffee-stack/coffee-stack-IPAOMTK.COM.ipa"
         }
       ],
@@ -7696,7 +7953,7 @@
           "localizedDescription": "ViP Active",
           "size": 402810470,
           "date": "2026-06-19T13:15:18Z",
-          "version": "0.1.7",
+          "version": "0.1.8",
           "downloadURL": "https://file.ipaomtk.com/skull-hero-xp-farm-rpg/Skull-Hero-XP-Farm-RPG-IPAOMTK.COM.ipa"
         }
       ],
@@ -12473,7 +12730,7 @@
           "localizedDescription": "Slow Enemy AI",
           "size": 2244434985,
           "date": "2026-05-17T07:42:48Z",
-          "version": "1.1.0",
+          "version": "1.1.1",
           "downloadURL": "https://file.ipaomtk.com/highway-racer-pro/Highway-Racer-Pro-IPAOMTK.COM.ipa"
         }
       ],
@@ -19752,7 +20009,7 @@
           "localizedDescription": "Never Die",
           "size": 971967037,
           "date": "2026-04-09T19:58:43Z",
-          "version": "1.5.1",
+          "version": "1.6.0",
           "downloadURL": "https://file.ipaomtk.com/soul-huntress-offline-games/Soul-Huntress-Offline-IPAOMTK.COM.ipa.ipa"
         }
       ],
@@ -22332,7 +22589,7 @@
           "localizedDescription": "Cheat Menu",
           "size": 2291914506,
           "date": "2026-03-12T16:38:33Z",
-          "version": "2.49",
+          "version": "2.50",
           "downloadURL": "https://file.ipaomtk.com/cookingdom/Cookingdom-IPAOMTK.COM.ipa"
         }
       ],
@@ -33954,7 +34211,7 @@
           "localizedDescription": "Infinite Coins Only",
           "size": 154140672,
           "date": "2025-11-25T08:52:26Z",
-          "version": "7.1.0",
+          "version": "7.1.1",
           "downloadURL": "https://file.ipaomtk.com/Sniper-3D-Gun-Shooting-Games/Sniper-3D-IPAOMTK.COM.ipa"
         }
       ],
@@ -46518,7 +46775,7 @@
         {
           "localizedDescription": "God Mode",
           "date": "2025-07-03T14:32:24Z",
-          "version": "0.33.0",
+          "version": "0.34.0",
           "downloadURL": "https://file.ipaomtk.com/Planet%20Crusher%20-%20Dig%20%26%20Drill/Planet-Crusher-IPAOMTK.COM.ipa"
         }
       ],
@@ -49494,7 +49751,7 @@
           "localizedDescription": "Never Die",
           "size": 454536724,
           "date": "2025-06-09T19:42:20Z",
-          "version": "3.13.0",
+          "version": "3.14.0",
           "downloadURL": "https://file.ipaomtk.com/rogue-with-the-dead-idle-rpg/Rogue-with-the-Dead-IPAOMTK.COM.ipa"
         }
       ],
@@ -110552,7 +110809,7 @@
           "localizedDescription": "Unlimited Currencies, skips, NO ADS",
           "size": 205625754,
           "date": "2024-08-02T14:55:28Z",
-          "version": "3.20.1",
+          "version": "3.20.2",
           "downloadURL": "https://file.ipaomtk.com/Mob%20Control/Mob-Control-IPAOMTK.COM.ipa"
         }
       ],
@@ -113885,7 +114142,7 @@
           "localizedDescription": "No Ads",
           "size": 132749722,
           "date": "2024-06-28T15:07:25Z",
-          "version": "7.3.1",
+          "version": "7.3.2",
           "downloadURL": "https://file.ipaomtk.com/Block-Blast/Block-Blast-IPAOMTK.COM.ipa"
         }
       ],
@@ -123047,7 +123304,7 @@
           "localizedDescription": "Never Die/Freeze Resources",
           "size": 203067228,
           "date": "2024-04-15T02:56:29Z",
-          "version": "7.22.0",
+          "version": "7.22.1",
           "downloadURL": "https://file.ipaomtk.com/the-demonized/The-Demonized-IPAOMTK.COM.ipa"
         }
       ],
@@ -145569,7 +145826,7 @@
           "localizedDescription": "Unlimited Currencies/No Ads",
           "size": 464141681,
           "date": "2023-06-15T20:54:34Z",
-          "version": "1.7.9",
+          "version": "1.8.0",
           "downloadURL": "https://file.ipaomtk.com/Rent%20Please%21%20Landlord%20Sim/Rent-Please-IPAOMTK.COM.ipa"
         }
       ],
@@ -148567,7 +148824,7 @@
           "localizedDescription": "(Unlimited All)",
           "size": 574619648,
           "date": "2023-05-24T22:58:06Z",
-          "version": "10.0",
+          "version": "10.1.0",
           "downloadURL": "https://file.ipaomtk.com/heroes-vs-hordes-survivor/Heroes-v-Hordes-IPAOMTK.COM.ipa"
         }
       ],
@@ -161621,7 +161878,7 @@
           "localizedDescription": "GLE",
           "size": 102204703,
           "date": "2023-02-16T20:01:31Z",
-          "version": "3.16.0",
+          "version": "3.17.0",
           "downloadURL": "https://file.ipaomtk.com/Plants-vs-Zombies/PvZ-IPAOMTK.COM.ipa"
         }
       ],
